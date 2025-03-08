@@ -34,7 +34,7 @@ Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no Git
   
 </div>
 
-![GitHub Snake Dark](https://<Emillyfreitasf>.github.io/<Emillyfreitasf>/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://Emillyfreitasf.github.io/Emillyfreitasf/github-contribution-grid-snake.svg)
 
 
 
