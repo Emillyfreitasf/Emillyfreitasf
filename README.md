@@ -37,3 +37,4 @@ Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no Git
 ![Snake animation](https://github.com/Emillyfreitasf/snake-game/blob/output/github-contribution-grid-snake.svg)
 
 
+
