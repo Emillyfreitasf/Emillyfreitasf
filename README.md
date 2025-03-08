@@ -34,7 +34,8 @@ Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no Git
   
 </div>
 
-![Snake animation](https://github.com/Emillyfreitasf/SeuUsuario/raw/main/dist/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://<Emillyfreitasf>.github.io/<Emillyfreitasf>/github-contribution-grid-snake-dark.svg)
+
 
 
 
