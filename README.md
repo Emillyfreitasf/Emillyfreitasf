@@ -33,3 +33,6 @@ Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no Git
   <a href="https://www.linkedin.com/in/emilly-nayara-817107175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/Emillyfreitasf/snake-gameprofile/blob/output/github-contribution-grid-snake.svg)
+
