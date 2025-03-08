@@ -34,7 +34,8 @@ Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no Git
   
 </div>
 
-![Snake animation](https://github.com/Emillyfreitasf/snake-game/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Emillyfreitasf/snake-game/output/github-contribution-grid-snake.svg)
+
 
 
 
