@@ -1,10 +1,5 @@
-## Olá, mundo! /ᐠ｡ꞈ｡ᐟ\
+## Estudante de Engenharia da Computação (UNIVESP) | Formada em Técnico em Desenvolvimento de Sistemas
 
-Sou a Emilly, estudante de desenvolvimento de sistemas e completamente apaixonada por tecnologia! 💻💙
-
-Quando não estou codando, você pode me encontrar maratonando filmes 🎬, mergulhada em algum livro  📖 ou curtindo minhas playlists de post punk e new wave 🎶.
-
-Estou construindo meu caminho e aprendendo um pouco mais a cada dia. Aqui no GitHub, minha jornada na programação está só no começo, então prepara a pipoca 🍿, porque essa história ainda tem muitos capítulos (e commits) pela frente! 🚀
 
 <div>
     <a href="https://github.com/Emillyfreitasf">
