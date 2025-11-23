@@ -1,5 +1,6 @@
-## Estudante de Engenharia da Computação (UNIVESP) | Formada em Técnico em Desenvolvimento de Sistemas
-
+## Emilly Nayara
+💻Técnico em Desenvolvimento de Sistemas (Concluído)
+Engenharia da Computação - Univesp (Cursando)
 
 <div>
     <a href="https://github.com/Emillyfreitasf">
